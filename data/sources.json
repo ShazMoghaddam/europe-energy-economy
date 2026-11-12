@@ -1,0 +1,85 @@
+{
+  "fetched": "2026-11-11 19:14 UTC",
+  "credit": "Sources: Eurostat (CC BY 4.0); Our World in Data, from Ember and the Energy Institute (CC BY 4.0); U.S. Energy Information Administration; International Monetary Fund, via FRED.",
+  "files": {
+    "energy_mix.csv": {
+      "publisher": "Our World in Data, from Ember and the Energy Institute Statistical Review of World Energy",
+      "url": "https://github.com/owid/energy-data",
+      "licence": "CC BY 4.0",
+      "description": "Electricity in terawatt-hours (TWh) and shares in %. Gas, oil, coal and primary energy consumption in TWh of primary energy.",
+      "rows": 496
+    },
+    "household_prices.csv": {
+      "electricity": {
+        "publisher": "Eurostat",
+        "dataset": "nrg_pc_204",
+        "title": "Electricity prices for household consumers - bi-annual data",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table?lang=en",
+        "updated": "2026-10-19",
+        "licence": "CC BY 4.0, (c) European Union"
+      },
+      "gas": {
+        "publisher": "Eurostat",
+        "dataset": "nrg_pc_202",
+        "title": "Gas prices for household consumers - bi-annual data",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202/default/table?lang=en",
+        "updated": "2026-10-19",
+        "licence": "CC BY 4.0, (c) European Union"
+      },
+      "description": "Household prices including all taxes and levies, euros per kWh. Electricity band DC (2,500 to 5,000 kWh a year), gas band D2 (20 to 200 GJ a year). S1 is January to June, S2 is July to December.",
+      "rows": 1813
+    },
+    "gas_imports.csv": {
+      "publisher": "Eurostat",
+      "dataset": "nrg_ti_gasm",
+      "title": "Natural gas imports - monthly data",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ti_gasm/default/table?lang=en",
+      "updated": "2026-11-03",
+      "licence": "CC BY 4.0, (c) European Union",
+      "description": "EU27 imports of natural gas by partner country, million cubic metres a month.",
+      "rows": 16064
+    },
+    "gas_imports_by_country.csv": {
+      "publisher": "Eurostat",
+      "dataset": "nrg_ti_gas",
+      "title": "Natural gas imports - annual data",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ti_gas/default/table?lang=en",
+      "updated": "2026-10-09",
+      "licence": "CC BY 4.0, (c) European Union",
+      "description": "Imports of natural gas, total and from Russia, million cubic metres a year.",
+      "rows": 445
+    },
+    "gas_consumption.csv": {
+      "publisher": "Eurostat",
+      "dataset": "nrg_cb_gasm",
+      "title": "Gas supply, transformation and consumption - monthly data",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_cb_gasm/default/table?lang=en",
+      "updated": "2026-11-03",
+      "licence": "CC BY 4.0, (c) European Union",
+      "description": "Inland consumption of natural gas (observed), million cubic metres a month.",
+      "rows": 4517
+    },
+    "world_prices.csv": {
+      "brent": {
+        "publisher": "U.S. Energy Information Administration, via FRED",
+        "series": "MCOILBRENTEU, DCOILBRENTEU",
+        "url": "https://fred.stlouisfed.org/series/MCOILBRENTEU"
+      },
+      "gas": {
+        "publisher": "International Monetary Fund, Primary Commodity Prices, via FRED",
+        "series": "PNGASEUUSDM",
+        "url": "https://fred.stlouisfed.org/series/PNGASEUUSDM",
+        "note": "Natural gas, EU (Netherlands TTF), US dollars per million British thermal units"
+      },
+      "rows": 202,
+      "last": "2026-10"
+    },
+    "brent_daily.csv": {
+      "publisher": "U.S. Energy Information Administration, via FRED",
+      "series": "MCOILBRENTEU, DCOILBRENTEU",
+      "url": "https://fred.stlouisfed.org/series/MCOILBRENTEU",
+      "rows": 4260,
+      "last": "2026-11-03"
+    }
+  }
+}
