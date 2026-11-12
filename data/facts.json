@@ -1,0 +1,74 @@
+{
+  "about": "Figures used in the report that don't come from a downloadable data series. Each one is quoted from the source linked next to it. Check them against the source before changing them.",
+  "storage": {
+    "march_2026_percent_full": 30,
+    "march_2026_ten_year_average": 58,
+    "end_august_2026_percent_full": 64.7,
+    "legal_target_percent": 90,
+    "eased_target_percent": 80,
+    "end_february_bcm": {
+      "2024": 77,
+      "2025": 60,
+      "2026": 46
+    },
+    "sources": [
+      "https://www.euronews.com/2026/03/23/eu-pushes-early-gas-refills-while-easing-storage-targets-on-iran-war",
+      "https://www.euronews.com/2026/08/31/european-gas-prices-spike-above-70-amid-renewed-middle-east-fighting",
+      "https://www.bruegel.org/first-glance/how-will-iran-conflict-hit-european-energy-markets"
+    ]
+  },
+  "government_support": {
+    "total_eur_bn": 651,
+    "eu_eur_bn": 540,
+    "uk_eur_bn": 103,
+    "norway_eur_bn": 8.1,
+    "germany_eur_bn": 158,
+    "period": "September 2021 to January 2023",
+    "source": "https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices"
+  },
+  "russian_gas_commission": {
+    "share_2021_percent": 45,
+    "share_2024_percent": 19,
+    "volume_2021_bcm": 150,
+    "volume_2024_bcm": 52,
+    "share_2025_percent": 13,
+    "sources": [
+      "https://cyprus.representation.ec.europa.eu/news/eu-fully-end-its-dependency-russian-energy-2025-05-06_en",
+      "https://www.consilium.europa.eu/en/press/press-releases/2026/01/26/russian-gas-imports-council-gives-final-greenlight-to-a-stepwise-ban/"
+    ]
+  },
+  "gulf_2026": {
+    "hormuz_share_of_world_oil_percent": 20,
+    "hormuz_share_of_world_lng_percent": 20,
+    "extra_eu_import_bill_eur_bn": 24,
+    "sources": [
+      "https://www.bruegel.org/first-glance/how-will-iran-conflict-hit-european-energy-markets",
+      "https://www.rte.ie/news/europe/2026/0422/1569473-energy-prices-europe/"
+    ]
+  },
+  "uk_energy_profits_levy": {
+    "rates": [
+      [
+        "26 May 2022",
+        25
+      ],
+      [
+        "1 January 2023",
+        35
+      ],
+      [
+        "1 November 2024",
+        38
+      ]
+    ],
+    "ends": "31 March 2030",
+    "sources": [
+      "https://www.gov.uk/government/publications/energy-profits-levy-reforms-2024/energy-profits-levy-reforms-2024",
+      "https://www.gov.uk/government/publications/autumn-statement-2022-energy-taxes-factsheet/energy-taxes-factsheet"
+    ]
+  },
+  "gas_demand_eurostat": {
+    "cut_aug_2022_to_mar_2023_percent": 17.7,
+    "source": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20230419-1"
+  }
+}

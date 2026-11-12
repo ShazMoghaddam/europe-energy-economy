@@ -1,0 +1,18 @@
+# Submissions: link to the source data instead of committing it
+*.csv
+*.xlsx
+*.zip
+# The project's own tidy data files are small and kept, so charts can be rebuilt offline
+!data/*.csv
+
+# Raw downloads kept by data/fetch.py for checking numbers. Too big to commit, and easy to download again
+data/raw/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.pytest_cache/
+
+# macOS
+.DS_Store

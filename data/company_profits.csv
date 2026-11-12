@@ -1,0 +1,22 @@
+company,year,measure,usd_million,source
+Shell,2019,Adjusted earnings,16462,https://ca.marketscreener.com/quote/stock/SHELL-PLC-6273/news/Royal-Dutch-Shell-Royal-Dutch-Shell-Plc-4th-8-32353701/
+Shell,2020,Adjusted earnings,4846,https://ca.marketscreener.com/quote/stock/SHELL-PLC-6273/news/Royal-Dutch-Shell-Royal-Dutch-Shell-Plc-4th-8-32353701/
+Shell,2021,Adjusted earnings,19289,https://www.sec.gov/Archives/edgar/data/1306965/000130696523000003/q42022exhibit992.htm
+Shell,2022,Adjusted earnings,39870,https://www.sec.gov/Archives/edgar/data/1306965/000130696523000003/q42022exhibit992.htm
+Shell,2023,Adjusted earnings,28250,https://shell.gcs-web.com/node/24516
+Shell,2024,Adjusted earnings,23716,https://www.sec.gov/Archives/edgar/data/1306965/000162828026005600/q42025exhibit992.htm
+Shell,2025,Adjusted earnings,18529,https://www.sec.gov/Archives/edgar/data/1306965/000162828026005600/q42025exhibit992.htm
+BP,2019,Underlying replacement cost profit,9990,https://ca.marketscreener.com/quote/stock/BP-PLC-9590188/news/PRESS-RELEASE-BP-p-l-c-Group-results-Fourth-quarter-and-full-year-2020-32333877/
+BP,2020,Underlying replacement cost profit,-5690,https://ca.marketscreener.com/quote/stock/BP-PLC-9590188/news/PRESS-RELEASE-BP-p-l-c-Group-results-Fourth-quarter-and-full-year-2020-32333877/
+BP,2021,Underlying replacement cost profit,12815,https://www.sec.gov/Archives/edgar/data/313807/000165495423001372/a0884p.htm
+BP,2022,Underlying replacement cost profit,27653,https://www.sec.gov/Archives/edgar/data/313807/000165495423001372/a0884p.htm
+BP,2023,Underlying replacement cost profit,13840,https://offshore-energy.biz/bps-profit-cut-in-half-but-13-8-billion-still-cinched-in-2023
+BP,2024,Underlying replacement cost profit,8915,https://www.sec.gov/Archives/edgar/data/313807/000031380726000002/a31122025bp6kq4.htm
+BP,2025,Underlying replacement cost profit,7485,https://www.sec.gov/Archives/edgar/data/313807/000031380726000002/a31122025bp6kq4.htm
+TotalEnergies,2019,Adjusted net income,11828,https://www.sec.gov/Archives/edgar/data/879764/000119312520026493/d880222dex991.htm
+TotalEnergies,2020,Adjusted net income,4059,https://www.businesswire.com/news/home/20220209006270/en
+TotalEnergies,2021,Adjusted net income,18060,https://www.businesswire.com/news/home/20220209006270/en
+TotalEnergies,2022,Adjusted net income,36197,https://www.sec.gov/Archives/edgar/data/879764/000110465924011422/tm245206d1_ex99-1.htm
+TotalEnergies,2023,Adjusted net income,23176,https://www.sec.gov/Archives/edgar/data/879764/000110465924011422/tm245206d1_ex99-1.htm
+TotalEnergies,2024,Adjusted net income,18264,https://totalenergies.com/system/files/documents/totalenergies_pr-results-q4-2025_2026_en.pdf
+TotalEnergies,2025,Adjusted net income,15587,https://totalenergies.com/system/files/documents/totalenergies_pr-results-q4-2025_2026_en.pdf
