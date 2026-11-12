@@ -1,2 +1,2 @@
 bezel-charts>=1.10.1
-pandas>=2.0
+pandas>=3.1.1
