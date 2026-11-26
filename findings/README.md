@@ -6,7 +6,7 @@ Every number and chart on this page is worked out from the data in [`data/`](../
 redrawn when new figures come out. Charts are drawn with [bezel-charts](https://pypi.org/project/bezel-charts/), an
 open-source Python library created by Shaz Moghaddam, the author of this project.
 
-Data last downloaded: 2026-11-11 19:14 UTC.
+Data last downloaded: 2026-11-26 19:21 UTC.
 
 **In this report:** [1. The headline numbers](#1-the-headline-numbers) ·
 [2. What normal looked like](#2-what-normal-looked-like-2010-to-2021) ·
@@ -125,7 +125,7 @@ the world's oil and about **20%** of its LNG, including everything Qatar exports
 Each square is a day. A dark square means oil cost more than $100 a barrel that day. Markets are closed at weekends,
 so weekends take the price from the last weekday before them.
 
-- Oil cost more than $100 a barrel on **140 of the 306 days** so far this year, starting on
+- Oil cost more than $100 a barrel on **140 of the 327 days** so far this year, starting on
   12 March. Before the war, the last time it was over $100 was
   26 August 2022.
 - On 27 February, just before the strikes, Brent oil cost **$71** a barrel.
@@ -133,7 +133,7 @@ so weekends take the price from the last weekday before them.
   brought it back down. Then fighting started again at the end of August.
 - In Oct 2026 oil averaged **$124**, the highest monthly average since
   Mar 2012, before allowing for inflation. The latest daily price, on
-  3 November 2026, was **$107**.
+  24 November 2026, was **$92**.
 
 This time Europe was hit through its gas storage. Countries fill underground stores over the summer to get through
 the winter. They were unusually empty when the war began: at the end of February the EU held
